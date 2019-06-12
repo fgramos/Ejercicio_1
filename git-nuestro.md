@@ -1,4 +1,4 @@
-Git nuestro
+# El Git nuestro del nuevo Teramento
 
 <p><em>Git</em> nuestro que estas en los repos<br />
 
@@ -18,5 +18,5 @@ No nos dejes caer en <em>detached HEAD</em><br />
 
 y líbranos de <em>SVN</em><br />
 
-<code>git commit --amend</code></p
+<code>git commit --amend</code></p>
 
